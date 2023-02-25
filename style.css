@@ -91,15 +91,18 @@ section{
 }
 
 input{
+    padding-left: 20px;
     background: #9F7FDB;
     border-radius: 10px;
     width: 400px;
     height: 60px;
+    color: white;
+    font-size: 16px;
    
 }
 
 input::placeholder{
-    padding-left: 20px;
+    padding-left: 10px;
     color:white;
     font-family: 'Lexend Deca', sans-serif;
 }
